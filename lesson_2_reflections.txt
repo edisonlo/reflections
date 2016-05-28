@@ -1,0 +1,7 @@
+Q1.What happends when you initialize a repository? Why do you need to do it?
+	It will create a .git metadata to keep track of different versions of the repository i committed. I have to do it to make it a git repository so i can track different versions. 
+
+Q2. How is staging area different from the working directory and the repository? What value do you think it offers?
+	Files in staging area will be commiitted instead of working directory. As a result, we can have to options to committ which files we want.
+
+Q3.
